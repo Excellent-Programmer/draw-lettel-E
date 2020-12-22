@@ -1,0 +1,6 @@
+D:\Draw with C#\letter E\letter E\bin\Debug\letter E.exe.config
+D:\Draw with C#\letter E\letter E\bin\Debug\letter E.exe
+D:\Draw with C#\letter E\letter E\bin\Debug\letter E.pdb
+D:\Draw with C#\letter E\letter E\obj\Debug\letter E.csproj.CoreCompileInputs.cache
+D:\Draw with C#\letter E\letter E\obj\Debug\letter E.exe
+D:\Draw with C#\letter E\letter E\obj\Debug\letter E.pdb
